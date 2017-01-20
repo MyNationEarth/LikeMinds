@@ -1,16 +1,20 @@
-MIT License
+MyNation.Earth License
 
 Copyright (c) 2017 MyNation.Earth
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to read
+and review the source code. Yu may also apply to contribute to the development 
+of the Software. 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The source code is published on git for the singular purpose of public scrutiny.
+
+If you choose to contribute to the development of LikeMinds, please contact
+Jupiter Jones <jupiter@mynation.earth> to obtain written permission.
+
+If permission is granted, you will be added as a developer in this git repository.
+
+No other permissions are granted.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
