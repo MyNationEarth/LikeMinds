@@ -1,3 +1,3 @@
-Accessing
+accessing
 setDelivered
-	delivered := TimeStamp now
+  delivered := DateAndTime now

@@ -1,4 +1,4 @@
-Processing
+processing
 checkPermission: permission
 	"Check Owner"
 	owner == target ifTrue: [^true].

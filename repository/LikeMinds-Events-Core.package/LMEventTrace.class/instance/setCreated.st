@@ -1,3 +1,3 @@
-Accessing
+accessing
 setCreated
-	created := TimeStamp now
+  created := DateAndTime now

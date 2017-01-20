@@ -1,3 +1,4 @@
-as yet unclassified
+initialisation
 initialize
-	self setCreated
+  super initialize.
+  self setCreated

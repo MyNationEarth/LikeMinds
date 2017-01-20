@@ -1,4 +1,4 @@
-Updating
+accessing
 sent: newValue
 
    "Modify the value of the instance variable 'sent'."

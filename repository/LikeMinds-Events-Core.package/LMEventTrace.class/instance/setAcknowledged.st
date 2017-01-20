@@ -1,3 +1,3 @@
-Accessing
+accessing
 setAcknowledged
-	acknowledged := TimeStamp now
+  acknowledged := DateAndTime now

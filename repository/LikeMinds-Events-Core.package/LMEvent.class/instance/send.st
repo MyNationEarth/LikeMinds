@@ -1,4 +1,4 @@
-Processing
+processing
 send
 	target handleEvent: self.
 	"Log the Event"

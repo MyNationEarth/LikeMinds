@@ -1,3 +1,3 @@
-as yet unclassified
+trace
 enableTrace
-	trace := LikeMindsEventTrace new.
+  trace := LMEventTrace new

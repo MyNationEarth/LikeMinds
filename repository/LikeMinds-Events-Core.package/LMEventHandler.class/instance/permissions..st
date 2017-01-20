@@ -1,3 +1,3 @@
-as yet unclassified
+permissions
 permissions: anObject
 	permissions := anObject

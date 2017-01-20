@@ -1,4 +1,4 @@
-Updating
+accessing
 owner: newValue
 
    "Modify the value of the instance variable 'owner'."

@@ -1,3 +1,3 @@
-Processing
+processing
 execute
 	^self subclassResponsibility

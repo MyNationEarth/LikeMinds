@@ -1,3 +1,3 @@
-Accessing
+accessing
 setSent
-	sent := TimeStamp now
+  sent := DateAndTime now

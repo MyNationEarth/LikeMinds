@@ -1,3 +1,3 @@
-Accessing
+accessing
 result
 	^self propertyAt: #result
