@@ -1,0 +1,3 @@
+defaults
+allOwnerPermissions
+	^self class allOwnerPermissions

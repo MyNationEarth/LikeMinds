@@ -1,0 +1,17 @@
+{
+	"category" : "LikeMinds-System-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LikeMindsSystems" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties",
+		"perspective",
+		"log",
+		"handlers" ],
+	"name" : "LMSystem",
+	"pools" : [
+		 ],
+	"super" : "LMObject",
+	"type" : "normal" }

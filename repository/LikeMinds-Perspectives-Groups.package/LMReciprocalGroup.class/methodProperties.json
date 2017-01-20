@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"_descriptionReciprocalComment" : "jupiter 01/19/2017 15:07",
+		"_descriptionReciprocalDisplayName" : "jupiter 01/19/2017 15:07",
+		"descriptionReciprocalComment" : "jupiter 01/19/2017 15:07",
+		"descriptionReciprocalDisplayName" : "jupiter 01/19/2017 15:07" },
+	"instance" : {
+		"_key:" : "jupiter 01/19/2017 15:06",
+		"_properties:" : "jupiter 01/19/2017 15:06",
+		"addOwnerToGroup:event:" : "jupiter 01/19/2017 15:06",
+		"initialize" : "jupiter 01/19/2017 15:06",
+		"key" : "jupiter 01/19/2017 15:06",
+		"processJoinGroupEvent:" : "jupiter 01/19/2017 15:07",
+		"processLeaveGroupEvent:" : "jupiter 01/19/2017 15:06",
+		"reciprocalCopyParent:" : "jupiter 01/19/2017 15:06",
+		"reciprocalCopyToContext:" : "jupiter 01/19/2017 15:06",
+		"reciprocalCopyToMind:" : "jupiter 01/19/2017 15:06" } }

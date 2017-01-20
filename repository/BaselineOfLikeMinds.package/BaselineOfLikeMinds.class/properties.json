@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfLikeMinds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfLikeMinds",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

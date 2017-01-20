@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"descriptionChildren" : "jupiter 01/19/2017 15:05",
+		"descriptionFields" : "jupiter 01/19/2017 15:05" },
+	"instance" : {
+		"children" : "jupiter 01/19/2017 15:05",
+		"fields" : "jupiter 01/19/2017 15:05",
+		"fields:" : "jupiter 01/19/2017 15:05",
+		"fileDirectory" : "jupiter 01/19/2017 15:05",
+		"groups" : "jupiter 01/19/2017 15:05",
+		"handleEvent:" : "jupiter 01/19/2017 15:06",
+		"hasChildren" : "jupiter 01/19/2017 15:05",
+		"initialize" : "jupiter 01/19/2017 15:05",
+		"isRootPerspective" : "jupiter 01/19/2017 15:05",
+		"isSystemPerspective" : "jupiter 01/19/2017 15:05",
+		"pathToRoot" : "jupiter 01/19/2017 15:05",
+		"processJoinGroupEvent:" : "jupiter 01/19/2017 15:05",
+		"processLeaveGroupEvent:" : "jupiter 01/19/2017 15:05",
+		"root" : "jupiter 01/19/2017 15:05",
+		"system" : "jupiter 01/19/2017 15:05",
+		"withUUID:" : "jupiter 01/19/2017 15:05" } }

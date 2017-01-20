@@ -1,0 +1,19 @@
+{
+	"category" : "LikeMinds-Perspectives-Groups",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"enabled",
+		"displayName",
+		"displayImage",
+		"comment",
+		"members" ],
+	"name" : "LMGroup",
+	"pools" : [
+		 ],
+	"super" : "LMEventHandler",
+	"type" : "normal" }

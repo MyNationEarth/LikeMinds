@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Perspectives-Groups",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 01/19/2017 15:07",
+	"instvars" : [
+		"key" ],
+	"name" : "LMReciprocalGroup",
+	"pools" : [
+		 ],
+	"super" : "LMGroup",
+	"type" : "normal" }

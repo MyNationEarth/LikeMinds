@@ -1,0 +1,19 @@
+{
+	"category" : "LikeMinds-Perspectives-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mind",
+		"perspective",
+		"fieldModels",
+		"blog",
+		"conversations",
+		"groups" ],
+	"name" : "LMPerspectiveContext",
+	"pools" : [
+		 ],
+	"super" : "LMEventHandler",
+	"type" : "normal" }

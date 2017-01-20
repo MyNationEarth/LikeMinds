@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"descriptionPermissions" : "jupiter 01/19/2017 14:48" },
+	"instance" : {
+		"checkPermission:for:" : "jupiter 01/19/2017 14:48",
+		"events" : "jupiter 01/19/2017 14:48",
+		"group:" : "jupiter 01/19/2017 14:48",
+		"handleEvent:" : "jupiter 01/19/2017 14:48",
+		"initialize" : "jupiter 01/19/2017 14:48",
+		"initializeEvents" : "jupiter 01/19/2017 14:48",
+		"owner:" : "jupiter 01/19/2017 14:48",
+		"permissions" : "jupiter 01/19/2017 14:48",
+		"permissions:" : "jupiter 01/19/2017 14:48" } }

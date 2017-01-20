@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Web-Events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LMEnableWebAccessEvent",
+	"pools" : [
+		 ],
+	"super" : "LMEvent",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"category" : "LikeMinds-Perspectives-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commsId",
+		"email",
+		"password",
+		"givenName",
+		"familyName",
+		"dateOfBirth",
+		"locations",
+		"perspective",
+		"contexts",
+		"conversations",
+		"groups" ],
+	"name" : "LMMind",
+	"pools" : [
+		 ],
+	"super" : "LMEventHandler",
+	"type" : "normal" }

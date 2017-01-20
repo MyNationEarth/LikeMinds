@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fileDirectory" : "jupiter 01/19/2017 15:10",
+		"initializeEvents" : "jupiter 01/19/2017 15:10",
+		"processJoinGroupEvent:" : "jupiter 01/19/2017 15:11",
+		"processLeaveGroupEvent:" : "jupiter 01/19/2017 15:10",
+		"reciprocalCopyToMind:" : "jupiter 01/19/2017 15:10" } }

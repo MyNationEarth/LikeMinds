@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Perspectives-Groups",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"criteria" ],
+	"name" : "LMSmartGroup",
+	"pools" : [
+		 ],
+	"super" : "LMGroup",
+	"type" : "normal" }

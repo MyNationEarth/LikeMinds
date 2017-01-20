@@ -1,0 +1,18 @@
+{
+	"category" : "LikeMinds-Perspectives-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commsId",
+		"email",
+		"givenName",
+		"familyName",
+		"mind" ],
+	"name" : "LMMindReference",
+	"pools" : [
+		 ],
+	"super" : "LMIdentifiableObject",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am responsible for sending email directly to target email addresses.

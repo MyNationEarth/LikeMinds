@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Perspectives-Events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LMRemoveConversationEvent",
+	"pools" : [
+		 ],
+	"super" : "LMRemoveGroupEvent",
+	"type" : "normal" }

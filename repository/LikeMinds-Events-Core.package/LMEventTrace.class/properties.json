@@ -1,0 +1,18 @@
+{
+	"category" : "LikeMinds-Events-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"created",
+		"sent",
+		"received",
+		"delivered",
+		"acknowledged" ],
+	"name" : "LMEventTrace",
+	"pools" : [
+		 ],
+	"super" : "LMObject",
+	"type" : "normal" }

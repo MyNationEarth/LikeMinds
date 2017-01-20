@@ -1,0 +1,15 @@
+{
+	"category" : "LikeMinds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"properties" ],
+	"name" : "LMIdentifiableObject",
+	"pools" : [
+		 ],
+	"super" : "LMObject",
+	"type" : "normal" }

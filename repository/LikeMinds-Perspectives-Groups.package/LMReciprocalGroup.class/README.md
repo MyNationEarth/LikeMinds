@@ -1,0 +1,3 @@
+A ReciprocalGroup is one that allows members to conditionally know they are a part of the group. This is done by creating a second ReciprocalGroup in member.groups with the same key as the original ReciprocalGroup.
+If members are added to the group permissions they will be able to read the group - ie. it will show up as one of their groups. However it will not be writable.
+A ReciprocalGroup can only be created in perspective.groups and acts as a "template". Each member mind will have a copy of the perspective.groups "template" in their context.groups, and the reciprocal in mind.groups.

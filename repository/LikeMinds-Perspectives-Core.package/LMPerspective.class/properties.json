@@ -1,0 +1,17 @@
+{
+	"category" : "LikeMinds-Perspectives-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"fields",
+		"groups",
+		"conversations" ],
+	"name" : "LMPerspective",
+	"pools" : [
+		 ],
+	"super" : "LMGroup",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "LikeMinds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 01/19/2017 21:22",
+	"instvars" : [
+		"owner",
+		"ownerPermissions",
+		"group",
+		"groupPermissions",
+		"otherPermissions" ],
+	"name" : "LMPermissions",
+	"pools" : [
+		 ],
+	"super" : "LMObject",
+	"type" : "normal" }

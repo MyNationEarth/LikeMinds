@@ -1,0 +1,3 @@
+defaults
+allOtherPermissions
+	^self class allOtherPermissions

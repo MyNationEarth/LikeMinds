@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Perspectives-Events",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LMJoinGroupEvent",
+	"pools" : [
+		 ],
+	"super" : "LMEvent",
+	"type" : "normal" }

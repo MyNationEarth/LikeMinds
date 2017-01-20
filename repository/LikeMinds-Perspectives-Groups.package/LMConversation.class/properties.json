@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Perspectives-Groups",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LMConversation",
+	"pools" : [
+		 ],
+	"super" : "LMReciprocalGroup",
+	"type" : "normal" }

@@ -1,0 +1,21 @@
+{
+	"category" : "LikeMinds-Utilities-Mail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Preference" ],
+	"commentStamp" : "jupiter 01/19/2017 14:12",
+	"instvars" : [
+		"mailhostName",
+		"smtpPort",
+		"ownDomainName",
+		"from",
+		"to",
+		"cc",
+		"subject",
+		"text" ],
+	"name" : "LMMailUtility",
+	"pools" : [
+		 ],
+	"super" : "GsSocket",
+	"type" : "normal" }

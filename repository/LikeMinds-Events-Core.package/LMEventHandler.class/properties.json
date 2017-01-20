@@ -1,0 +1,15 @@
+{
+	"category" : "LikeMinds-Events-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"events",
+		"permissions" ],
+	"name" : "LMEventHandler",
+	"pools" : [
+		 ],
+	"super" : "LMIdentifiableObject",
+	"type" : "normal" }

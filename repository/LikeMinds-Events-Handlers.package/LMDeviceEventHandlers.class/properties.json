@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Events-Handlers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"system" ],
+	"name" : "LMDeviceEventHandlers",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

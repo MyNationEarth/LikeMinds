@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Relationships-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LMMindRelationship",
+	"pools" : [
+		 ],
+	"super" : "LMAbstractRelationship",
+	"type" : "normal" }

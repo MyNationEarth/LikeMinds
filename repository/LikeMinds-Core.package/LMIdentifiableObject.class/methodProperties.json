@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"descriptionId" : "jupiter 01/19/2017 19:55",
+		"errorPropertyNotFound:" : "jupiter 01/19/2017 19:51",
+		"id" : "jupiter 01/19/2017 14:41",
+		"initialize" : "jupiter 01/19/2017 14:41",
+		"properties" : "jupiter 01/19/2017 14:42",
+		"propertyAt:" : "jupiter 01/19/2017 14:41",
+		"propertyAt:ifAbsent:" : "jupiter 01/19/2017 14:41",
+		"propertyAt:ifAbsentPut:" : "jupiter 01/19/2017 14:41",
+		"propertyAt:put:" : "jupiter 01/19/2017 14:41" } }

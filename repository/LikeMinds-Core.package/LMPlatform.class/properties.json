@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 01/19/2017 21:55",
+	"instvars" : [
+		 ],
+	"name" : "LMPlatform",
+	"pools" : [
+		 ],
+	"super" : "LMObject",
+	"type" : "normal" }
