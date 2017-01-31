@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adminGroup" : "jupiter 1/31/2017 15:09",
+		"adminUser" : "jupiter 1/31/2017 15:10",
+		"defaultName" : "jupiter 07/20/2010 06:56",
+		"handleEvent:" : "jupiter 07/20/2010 11:38",
+		"installMindSpaceForUser:" : "jupiter 07/20/2010 16:45",
+		"makePrivateStructure:user:" : "jupiter 07/20/2010 15:18",
+		"mindSpaceForMind:" : "jupiter 07/21/2010 06:30",
+		"mindSpaceTemplateForUser:" : "jupiter 07/27/2010 04:01",
+		"mindsSpace" : "jupiter 07/21/2010 06:28",
+		"permissions" : "jupiter 07/20/2010 11:48",
+		"permissions:" : "jupiter 07/20/2010 11:46",
+		"removeMindSpaceForMind:" : "jupiter 07/20/2010 17:16" } }

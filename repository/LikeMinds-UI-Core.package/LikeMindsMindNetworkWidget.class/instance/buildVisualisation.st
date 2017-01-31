@@ -1,0 +1,3 @@
+properties
+buildVisualisation
+	^LikeMindsVisualisationComponent parent: self

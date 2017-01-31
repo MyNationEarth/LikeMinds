@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LikeMindsVisualisationComponent",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsComponent",
+	"type" : "normal" }

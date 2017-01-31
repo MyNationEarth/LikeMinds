@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"parent:" : "jupiter 07/27/2010 23:19" },
+	"instance" : {
+		"children" : "jupiter 11/18/2010 17:59",
+		"components" : "jupiter 07/31/2010 07:48",
+		"initialize" : "jupiter 07/31/2010 07:48",
+		"parent:" : "jupiter 07/27/2010 23:07",
+		"properties" : "jupiter 07/31/2010 07:46",
+		"propertyAt:" : "jupiter 07/31/2010 07:46",
+		"propertyAt:ifAbsent:" : "jupiter 07/31/2010 07:47",
+		"propertyAt:ifAbsentPut:" : "jupiter 07/31/2010 07:47",
+		"propertyAt:put:" : "jupiter 07/31/2010 07:47" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context",
+		"children" ],
+	"name" : "LMLikeMindsFrame",
+	"pools" : [
+		 ],
+	"super" : "MAComponent",
+	"type" : "normal" }

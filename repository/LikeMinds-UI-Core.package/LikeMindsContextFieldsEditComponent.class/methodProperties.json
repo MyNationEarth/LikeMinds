@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cancelChanges" : "jupiter 08/26/2010 06:18",
+		"context:" : "jupiter 07/31/2010 08:31",
+		"fieldMementos" : "jupiter 08/20/2010 04:55",
+		"initialize" : "jupiter 08/20/2010 04:56",
+		"perspective:" : "jupiter 07/31/2010 08:34",
+		"renderContentOn:" : "jupiter 09/12/2010 06:08",
+		"renderFieldInput:on:" : "jupiter 11/29/2010 14:08",
+		"saveChanges" : "jupiter 08/26/2010 06:19" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "JupiterPierWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"isAbstract" : "jupiter 07/26/2010 15:49",
+		"label" : "jupiter 07/27/2010 04:04" },
+	"instance" : {
+		"addChildToPerspective:" : "jupiter 07/26/2010 15:49",
+		"buildPerspectiveComponent" : "jupiter 07/26/2010 15:49",
+		"buildTreeComponent" : "jupiter 07/26/2010 15:49",
+		"columnPerspectiveActions" : "jupiter 07/29/2010 11:49",
+		"perspective" : "jupiter 07/26/2010 15:49",
+		"perspective:" : "jupiter 07/27/2010 23:37",
+		"perspectiveComponent" : "jupiter 07/26/2010 15:49",
+		"removeChild:" : "jupiter 07/26/2010 15:49",
+		"removePerspectiveConfirmation:" : "jupiter 11/09/2010 13:29",
+		"removeWindow" : "jupiter 07/26/2010 15:49",
+		"renderContentOn:" : "jupiter 07/26/2010 15:49",
+		"rootPerspective" : "jupiter 07/26/2010 15:49",
+		"treeComponent" : "jupiter 07/26/2010 15:49" } }

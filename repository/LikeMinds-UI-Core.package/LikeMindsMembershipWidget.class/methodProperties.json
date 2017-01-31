@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "jupiter 07/27/2010 04:33",
+		"label" : "jupiter 07/27/2010 04:33" },
+	"instance" : {
+		"clearVariables" : "jupiter 10/30/2010 07:43",
+		"newMindAction" : "jupiter 10/25/2010 15:31",
+		"renderAlreadyLoggedInOn:" : "jupiter 10/25/2010 16:34",
+		"renderContentOn:" : "jupiter 10/30/2010 08:30",
+		"renderNewUserOn:" : "jupiter 10/30/2010 07:30",
+		"sendPasswordAction" : "jupiter 10/30/2010 07:37",
+		"updateVariables" : "jupiter 10/25/2010 08:34" } }

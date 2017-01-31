@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LikeMindsMyMenuWidget",
+	"pools" : [
+		 ],
+	"super" : "PRChildrenWidget",
+	"type" : "normal" }

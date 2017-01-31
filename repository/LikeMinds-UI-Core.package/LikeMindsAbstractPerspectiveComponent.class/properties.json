@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"perspective" ],
+	"name" : "LikeMindsAbstractPerspectiveComponent",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsAbstractScriptComponent",
+	"type" : "normal" }

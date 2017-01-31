@@ -1,0 +1,17 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mind",
+		"emailAddress",
+		"password",
+		"createResult" ],
+	"name" : "LikeMindsMembershipWidget",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsWidget",
+	"type" : "normal" }

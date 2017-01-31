@@ -1,0 +1,14 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LikeMindsContextEditWindow",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsAbstractPerspectiveComponent",
+	"type" : "normal" }

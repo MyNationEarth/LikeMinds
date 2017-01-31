@@ -1,0 +1,4 @@
+visualisation
+visualizationCssClass
+
+	^ #InfoVis

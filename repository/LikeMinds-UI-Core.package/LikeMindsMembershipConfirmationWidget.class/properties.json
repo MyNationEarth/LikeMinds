@@ -1,0 +1,16 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commsId",
+		"mind",
+		"hasBeenRemoved" ],
+	"name" : "LikeMindsMembershipConfirmationWidget",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsWidget",
+	"type" : "normal" }

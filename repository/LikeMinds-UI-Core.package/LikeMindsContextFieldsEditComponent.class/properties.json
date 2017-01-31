@@ -1,0 +1,15 @@
+{
+	"category" : "LikeMinds-UI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"context",
+		"perspective" ],
+	"name" : "LikeMindsContextFieldsEditComponent",
+	"pools" : [
+		 ],
+	"super" : "LikeMindsComponent",
+	"type" : "normal" }
