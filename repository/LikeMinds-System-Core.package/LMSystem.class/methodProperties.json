@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"_clearAllSystems" : "jupiter 01/19/2017 21:30",
-		"createSystemNamed:" : "jupiter 01/19/2017 15:26",
+		"_clearAllSystems" : "jupiter 02/03/2017 12:47",
+		"createSystemNamed:" : "jupiter 02/03/2017 12:46",
 		"current" : "jupiter 01/19/2017 15:26",
 		"defaultSystem" : "jupiter 01/19/2017 15:26",
 		"defaultSystemName" : "jupiter 01/19/2017 15:26",
 		"handleRequest:" : "jupiter 01/19/2017 15:26",
 		"removeSystemNamed:" : "jupiter 01/19/2017 15:26",
-		"rootEmailAddress" : "jupiter 01/19/2017 15:26",
+		"rootEmailAddress" : "jupiter 02/03/2017 12:41",
 		"systemNamed:" : "jupiter 01/19/2017 15:26",
 		"systems" : "jupiter 01/19/2017 15:26" },
 	"instance" : {
@@ -50,7 +50,7 @@
 		"perspective:" : "jupiter 01/19/2017 15:26",
 		"perspectiveDirectory" : "jupiter 01/19/2017 15:26",
 		"populateHandlers" : "jupiter 01/19/2017 15:26",
-		"postInitialize" : "jupiter 01/19/2017 15:26",
+		"postInitialize" : "jupiter 02/03/2017 12:45",
 		"printOn:" : "jupiter 01/19/2017 15:26",
 		"properties" : "jupiter 01/19/2017 15:26",
 		"propertyAt:" : "jupiter 01/19/2017 15:26",

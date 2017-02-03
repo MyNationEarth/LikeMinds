@@ -1,4 +1,4 @@
 Systems
 _clearAllSystems
-  LikeMindsSystems := nil.
+  LMSystems := nil.
   LMPlatform clearLocalFileSystem
