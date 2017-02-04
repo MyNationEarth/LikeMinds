@@ -1,3 +1,3 @@
 as yet unclassified
 isSystemPerspective
-	^self parent isKindOf: LikeMindsSystem
+  ^ self parent isKindOf: LMSystem

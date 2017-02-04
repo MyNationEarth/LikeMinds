@@ -6,6 +6,6 @@ descriptionOtherPermissions
     label: 'Other Permissions';
     componentClass: MACheckboxGroupComponent;
     priority: 420;
-    options: [ LikeMindsPermissions allOtherPermissions ] magritteDynamicObject;
+    options: [ LMPermissions allOtherPermissions ] magritteDynamicObject;
     reference: MAStringDescription new;
     yourself

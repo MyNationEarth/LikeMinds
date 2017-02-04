@@ -1,6 +1,6 @@
 {
 	"class" : {
-		"descriptionChildren" : "jupiter 01/19/2017 15:05",
+		"descriptionChildren" : "jupiter 02/04/2017 13:27",
 		"descriptionFields" : "jupiter 01/19/2017 15:05" },
 	"instance" : {
 		"children" : "jupiter 01/19/2017 15:05",
@@ -12,7 +12,7 @@
 		"hasChildren" : "jupiter 01/19/2017 15:05",
 		"initialize" : "jupiter 01/19/2017 15:05",
 		"isRootPerspective" : "jupiter 01/19/2017 15:05",
-		"isSystemPerspective" : "jupiter 01/19/2017 15:05",
+		"isSystemPerspective" : "jupiter 02/04/2017 13:27",
 		"pathToRoot" : "jupiter 01/19/2017 15:05",
 		"processJoinGroupEvent:" : "jupiter 01/19/2017 15:05",
 		"processLeaveGroupEvent:" : "jupiter 01/19/2017 15:05",

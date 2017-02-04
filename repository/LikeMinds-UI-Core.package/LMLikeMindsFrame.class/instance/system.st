@@ -1,3 +1,3 @@
 as yet unclassified
 system
-	^LikeMindsSystem current
+  ^ LMSystem current

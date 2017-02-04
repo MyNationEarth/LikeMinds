@@ -18,7 +18,7 @@ Your membership password: ' + password asString
 
 To confirm your membership, click on the following link. 
 
-http://likeminds.terra-australis-incognita.com/LikeMinds/confirm?'
+http://likeminds.mynation.earth/LikeMinds/confirm?'
         , commsId asString
         ,
           '

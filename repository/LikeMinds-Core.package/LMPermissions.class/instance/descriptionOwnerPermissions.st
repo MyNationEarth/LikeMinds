@@ -6,6 +6,6 @@ descriptionOwnerPermissions
     label: 'Owner Permissions';
     componentClass: MACheckboxGroupComponent;
     priority: 400;
-    options: [ LikeMindsPermissions allOwnerPermissions ] magritteDynamicObject;
+    options: [ LMPermissions allOwnerPermissions ] magritteDynamicObject;
     reference: MAStringDescription new;
     yourself

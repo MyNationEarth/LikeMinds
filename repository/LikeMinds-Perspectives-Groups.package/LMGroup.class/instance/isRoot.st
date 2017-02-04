@@ -1,3 +1,3 @@
 as yet unclassified
 isRoot
-	^(parent isKindOf: LikeMindsGroup) not
+  ^ (parent isKindOf: LMGroup) not

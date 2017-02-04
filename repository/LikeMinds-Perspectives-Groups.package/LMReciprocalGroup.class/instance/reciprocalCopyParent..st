@@ -1,8 +1,9 @@
 as yet unclassified
 reciprocalCopyParent: aParent
-	"Messy switch"
-	(aParent isKindOf: LikeMindsContext)
-		ifTrue: [^self reciprocalCopyToContext: aParent].
-	(aParent isKindOf: LikeMindsMind)
-		ifTrue: [^self reciprocalCopyToMind: aParent].
-	^self error: 'Unknown LikeMindsReciprocalGroup parent type ', aParent printString.
+  "Messy switch"
+
+  (aParent isKindOf: LMPerspectiveContext)
+    ifTrue: [ ^ self reciprocalCopyToContext: aParent ].
+  (aParent isKindOf: LMMind)
+    ifTrue: [ ^ self reciprocalCopyToMind: aParent ].
+  ^ self error: 'Unknown LMReciprocalGroup parent type ' , aParent printString
